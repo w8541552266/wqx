@@ -125,7 +125,7 @@
 	}]
 },  { 
 	"_id": "daohang",
-	"classify": "分类导航",
+	"classify": "云服务",
 	"icon": "ti-bookmark-alt",
 	"sites": [{
 		"name": "今日热榜",
