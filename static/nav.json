@@ -3,25 +3,10 @@
 	"classify": "软件·社区",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
+		"name": "吾爱破解",
+		"href": "https://www.52pojie.cn/",
 		"desc": "软件安全与病毒分析,逆向、破解、技术",
 		"logo": "static/icons/52pojie.cn.ico"
-	}, {
-		"name": "镜像网站导航",
-		"href": "http://www.dayanzai.me/",
-		"desc": "镜像网站导航",
-		"logo": "static/icons/dayanzai.me.ico"
-	}, {
-		"name": "大眼仔旭",
-		"href": "http://www.dayanzai.me/",
-		"desc": "绿软、汉化软件分享",
-		"logo": "static/icons/dayanzai.me.ico"
-	}, {
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件分享",
-		"logo": "static/icons/dayanzai.me.ico"
 	}, {
 		"name": "殁漂遥",
 		"href": "https://www.mpyit.com/",
