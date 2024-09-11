@@ -133,10 +133,10 @@
 		"desc": "主流新闻站热点当日集合",
 		"logo": "static/icons/tophub.today.png"
 	},{
-		"name": "优设导航",
+		"name": "yxvm",
 		"href": "https://hao.uisdc.com/",
-		"desc": "一个优秀的设计师导航站",
-		"logo": "https://hao.uisdc.com/favicon.ico"
+		"desc": "几乎都是三网优化的线路，一出故障就补偿一个月使用时长，也是没谁了，一次购买终生使用。此外YxVM老板被称为『退款仙人』，Hmm 基本就是想退就退，有点离谱！",
+		"logo": "static/icons/yxvm.com.ico"
 	},{
 		"name": "堕落了",
 		"href": "https://www.duoluole.com/",
